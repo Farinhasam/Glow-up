@@ -1,2 +1,29 @@
 # Glow-up
 Ebook de como obter um glow up em 1 mês
+<!DOCTYPE html><html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <h1>Glow Up em 1 Mês</h1>
+    <p><strong>Transformação Completa por Dentro e por Fora</strong></p>
+    <p>Por Samuel Monteiro Cavalcante Farinha</p>
+  </header>  <section class="container">
+    <h2>Você está pronto para sua melhor versão?</h2>
+    <p>Este e-book é mais que uma leitura — é um plano de 30 dias para transformar sua autoestima, saúde, aparência e energia. Com explicações profundas sobre como hábitos influenciam seu corpo e mente, você vai entender <em>por que</em> o glow up acontece de verdade.</p><h3>O que você vai encontrar:</h3>
+<ul>
+  <li>Plano semanal passo a passo</li>
+  <li>Dicas de skincare, alimentação e exercícios</li>
+  <li>Ritual noturno para regeneração profunda</li>
+  <li>Ferramentas e apps que aceleram resultados</li>
+</ul>
+
+<h3>Para quem é esse e-book?</h3>
+<p>Para qualquer pessoa que queira evoluir seu visual, confiança e hábitos sem precisar de cirurgias, dietas malucas ou fórmulas mágicas. O foco é ciência, consistência e autoestima.</p>
+
+<a class="cta-button" href="#comprar">Quero meu Glow Up agora!</a>
+
+  </section>  <footer>
+    &copy; 2025 Samuel Monteiro Cavalcante Farinha. Todos os direitos reservados.
+  </footer>
+</body>
+</html>
